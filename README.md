@@ -2,13 +2,15 @@
 
 ###
 
-<div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taychingxian" alt="taychingxian" /></a>
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></p>
+- ⚡ Fun fact  1+1=10 
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<img align="right" height="300" src="https://i.pinimg.com/originals/a3/86/e2/a386e2ec6af7cd15fab3b08aa2ab5272.gif"  />
+
+<img align="right" height="400" src="https://i.pinimg.com/originals/a3/86/e2/a386e2ec6af7cd15fab3b08aa2ab5272.gif"  />
 
 ###
 
