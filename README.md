@@ -5,12 +5,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></p>
 - ⚡ Fun fact  1+1=10 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-
-<img align="right" height="300" src="https://i.pinimg.com/originals/a3/86/e2/a386e2ec6af7cd15fab3b08aa2ab5272.gif"  />
+<div>
+<img src= “https://images.twinkl.co.uk/tw1n/image/private/t_630/u/ux/pc_ver_1.png"/>
+</div>
 
 ###
 
