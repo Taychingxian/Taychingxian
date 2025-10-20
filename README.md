@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is TAY CHING XIAN and I'm a 2nd year CS student</h2>
+<h2 align="left">Hi 👋! My name is TAY CHING XIAN and I'm a 3rd year CS student</h2>
 
 ###
 
